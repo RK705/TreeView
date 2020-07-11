@@ -1,0 +1,33 @@
+.nav{
+  background-color: rgb(72, 145, 187);
+  color: white;
+  font-size: xx-large;
+  font-style:sherif;
+  height: 70px;
+  padding-left: 100px;
+  padding-top: 13px;
+}
+.root{
+  background-color: black;
+  color: aliceblue;
+}
+.sidebar{
+  background-color: rgb(173, 223, 224);
+  width: 350px;
+  height: 90vh;
+  padding-left: 15px;
+  padding-top: 15px;
+  
+}
+.main{
+  display: flex;
+}
+h3{
+  text-align: center;
+}
+.right{
+  flex:1;
+  background-color: rgb(228, 213, 213);
+  width: auto;
+  height: 90vh;
+}
